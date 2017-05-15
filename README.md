@@ -1,12 +1,12 @@
 # HackSource
 
-HackSource: the hacker's library.
+HackSource: the hacker's library
 
 ## Team
 
   - __Product Owner__: Emilie Hester
   - __Scrum Master__: Nate Nault
-  - __Development Team Members__: Max Berger, Vandeth Nop, Alex Rosenthal
+  - __Development Team Members__: Max Berger, Vandeth Nop, Alex Rosenthal, Meg Viar, Simon DeMoor, Kyle Anson, Jordan Stubblefield
 
 ## Table of Contents
 
@@ -52,3 +52,20 @@ npm install
 See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 Visit our wiki (https://github.com/delphineus/delphineus/wiki) to learn more!
+
+## Screenshots
+
+
+<img src="https://cloud.githubusercontent.com/assets/23217560/26076436/c33153fa-3986-11e7-8028-be5db0044ac1.png" width="725"/>
+
+<img src="https://cloud.githubusercontent.com/assets/23217560/26076438/c53b43fe-3986-11e7-8637-1096186fed18.png" width="725"/>
+
+<img src="https://cloud.githubusercontent.com/assets/23217560/26076446/c983dcd2-3986-11e7-8f28-a81c35d72ef8.png" width="725"/>
+
+<img src="https://cloud.githubusercontent.com/assets/23217560/26076984/a154f6b8-3988-11e7-924f-177cd0278ebc.png" width="725"/>
+
+<img src="https://cloud.githubusercontent.com/assets/23217560/26076455/d042ac2e-3986-11e7-8161-ddbb33872d4c.png" width="725"/>
+
+<img src="https://cloud.githubusercontent.com/assets/23217560/26076458/d2a50980-3986-11e7-95a5-3ff42063d6f0.png" width="400"/>
+
+
